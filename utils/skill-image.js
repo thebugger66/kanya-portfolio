@@ -108,7 +108,7 @@ export const skillsImage = (skill) => {
       return photoshop;
     case 'indesign':
       return indesign;
-    case 'corel drew':
+    case 'corel draw':
       return coreldrew;
     case 'proteus':
       return proteus;

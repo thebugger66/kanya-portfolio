@@ -2,32 +2,22 @@ export const projectsData = [
     {
         id: 1,
         name: 'Cake Box design',
-        description:
-            "A attractive and stylish design for cake packaging",
-        tools: ['Canva, Adobe Creative cloud '],
-        role: 'Graphic Desginer',
-        code: '',
-        
+        description: "An attractive and stylish design for cake packaging...",
+        tools: ['Canva', 'Adobe Creative Cloud'],
+        role: 'Graphic Designer',
+        image: '/png/project2.png', 
+        demo: 'https://drive.google.com/file/d/1HOlLEkEAu-p3wpFu_GkeI5tIdib4X4a4/view', // Add your link here
     },
     {
         id: 2,
-        name: 'Baby Product Packaging and Label design',
-        description:
-            "A interactive logo and lable design for baby product packaging",
-        tools: ['Canva, Adobe Illustrator'],
+        name: 'Baby Product Packaging',
+        description: "An interactive logo and label design...",
+        tools: ['Canva', 'Adobe Illustrator'],
         role: 'Designer',
-        
-        
+        image: '/png/project1.png',
+        demo: 'https://drive.google.com/file/d/1RHhqvhmYky1sy4ulI-6KGx6iRiYMCftt/view', // Add your link here
     },
-
-
 ];
-
-
-
-
-
-
 
 
 // Do not remove any property.

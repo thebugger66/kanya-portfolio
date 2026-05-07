@@ -22,7 +22,7 @@ export const skillsData = [
   
   'Figma',
   'Canva',
-  'Corel drew',
+  'Corel Draw',
   'illustrator',
   'indesign',
 
